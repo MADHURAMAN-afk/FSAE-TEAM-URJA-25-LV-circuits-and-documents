@@ -1,0 +1,18 @@
+Info: Processing symbol 'H1:MountingHole:MountingHole_4.3mm_M4'.
+Info: Processing symbol 'H2:MountingHole:MountingHole_4.3mm_M4'.
+Info: Processing symbol 'H3:MountingHole:MountingHole_4.3mm_M4'.
+Info: Processing symbol 'H4:MountingHole:MountingHole_4.3mm_M4'.
+Info: Processing symbol 'J1:TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal'.
+Info: Processing symbol 'J2:TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal'.
+Info: Processing symbol 'J3:TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal'.
+Info: Processing symbol 'J4:TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal'.
+Info: Processing symbol 'J5:TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal'.
+Info: Processing symbol 'J6:TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal'.
+Info: Processing symbol 'K1:Relay_THT:Relay_SPDT_Hongfa_HF3F-L-xx-1ZL1T'.
+Info: Processing symbol 'K2:Relay_THT:Relay_SPDT_Hongfa_HF3F-L-xx-1ZL1T'.
+Warning: No net found for component J2 pad 2 (no pin 2 in symbol).
+Warning: No net found for component J3 pad 2 (no pin 2 in symbol).
+Warning: No net found for component J4 pad 2 (no pin 2 in symbol).
+
+
+Info: Total warnings: 3, errors: 0.

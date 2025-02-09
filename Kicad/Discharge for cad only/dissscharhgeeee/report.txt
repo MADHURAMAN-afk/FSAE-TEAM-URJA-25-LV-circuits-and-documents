@@ -1,0 +1,108 @@
+Info: Processing symbol 'H1:MountingHole:MountingHole_4.3mm_M4'.
+Info: Processing symbol 'J1:TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal'.
+Info: Processing symbol 'J2:TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal'.
+Info: Processing symbol 'H4:MountingHole:MountingHole_4.3mm_M4'.
+Info: Processing symbol 'H2:MountingHole:MountingHole_4.3mm_M4'.
+Info: Processing symbol 'H3:MountingHole:MountingHole_4.3mm_M4'.
+Info: Processing symbol 'J3:TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal'.
+Info: Processing symbol 'J4:TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal'.
+Info: Processing symbol 'J5:TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal'.
+Info: Processing symbol 'K2:Relay_THT:Relay_SPDT_Hongfa_HF3F-L-xx-1ZL1T'.
+Updated H1 fields.
+Updated H1 sheetname to 'Root'.
+Updated H1 sheetfile to 'dissscharhgeeee.kicad_sch'.
+Updated H1 footprint filters to 'MountingHole*'.
+Added H2 (footprint 'MountingHole:MountingHole_4.3mm_M4').
+Changed REF** reference designator to H2.
+Changed H2 value from MountingHole_4.3mm_M4 to MountingHole.
+Updated H2 symbol association from  to /48d8fe90-88de-4f69-97b0-0cd8676f583f.
+Updated H2 fields.
+Updated H2 sheetname to 'Root'.
+Updated H2 sheetfile to 'dissscharhgeeee.kicad_sch'.
+Updated H2 footprint filters to 'MountingHole*'.
+Added H3 (footprint 'MountingHole:MountingHole_4.3mm_M4').
+Changed REF** reference designator to H3.
+Changed H3 value from MountingHole_4.3mm_M4 to MountingHole.
+Updated H3 symbol association from  to /ae71ddfe-e042-43f3-af86-4cff80f73f27.
+Updated H3 fields.
+Updated H3 sheetname to 'Root'.
+Updated H3 sheetfile to 'dissscharhgeeee.kicad_sch'.
+Updated H3 footprint filters to 'MountingHole*'.
+Added H4 (footprint 'MountingHole:MountingHole_4.3mm_M4').
+Changed REF** reference designator to H4.
+Changed H4 value from MountingHole_4.3mm_M4 to MountingHole.
+Updated H4 symbol association from  to /f1f6cecc-8470-4bc1-aed9-a5b297ed18ac.
+Updated H4 fields.
+Updated H4 sheetname to 'Root'.
+Updated H4 sheetfile to 'dissscharhgeeee.kicad_sch'.
+Updated H4 footprint filters to 'MountingHole*'.
+Added J1 (footprint 'TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal').
+Changed REF** reference designator to J1.
+Changed J1 value from TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal to Screw_Terminal_01x02.
+Updated J1 symbol association from  to /d977b53c-fcd6-4c4e-b34d-9336b4be8996.
+Updated J1 sheetname to 'Root'.
+Updated J1 sheetfile to 'dissscharhgeeee.kicad_sch'.
+Updated J1 footprint filters to 'TerminalBlock*:*'.
+Connected J1 pin 2 to +12V.
+Connected J1 pin 1 to Dis Resistor -ve.
+Added J2 (footprint 'TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal').
+Changed REF** reference designator to J2.
+Changed J2 value from TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal to Conn_01x01_Pin.
+Updated J2 symbol association from  to /0af84062-17e5-434a-948d-2ed7d2f7628a.
+Updated J2 fields.
+Updated J2 sheetname to 'Root'.
+Updated J2 sheetfile to 'dissscharhgeeee.kicad_sch'.
+Updated J2 footprint filters to 'Connector*:*_1x??_*'.
+Connected J2 pin 1 to Dis Resistor -ve.
+Added H1 (footprint 'MountingHole:MountingHole_4.3mm_M4').
+Added J3 (footprint 'TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal').
+Changed REF** reference designator to J3.
+Changed J3 value from TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal to Conn_01x01_Pin.
+Updated J3 symbol association from  to /d9cef9f9-3605-47b8-8a4b-27cc2748c7be.
+Updated J3 fields.
+Updated J3 sheetname to 'Root'.
+Updated J3 sheetfile to 'dissscharhgeeee.kicad_sch'.
+Updated J3 footprint filters to 'Connector*:*_1x??_*'.
+Connected J3 pin 1 to TS+.
+Changed REF** reference designator to H1.
+Added J4 (footprint 'TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal').
+Changed REF** reference designator to J4.
+Changed J4 value from TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal to Conn_01x01_Pin.
+Updated J4 symbol association from  to /b9e7f329-6fbb-4a40-9892-7a77a578c136.
+Updated J4 fields.
+Updated J4 sheetname to 'Root'.
+Updated J4 sheetfile to 'dissscharhgeeee.kicad_sch'.
+Updated J4 footprint filters to 'Connector*:*_1x??_*'.
+Connected J4 pin 1 to Dis Resistor +ve.
+Changed H1 value from MountingHole_4.3mm_M4 to MountingHole.
+Added J5 (footprint 'TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal').
+Changed REF** reference designator to J5.
+Changed J5 value from TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal to Conn_01x02_Pin.
+Updated J5 symbol association from  to /c3e7f8e5-6ab2-4eab-b155-7659e630ac0f.
+Updated J5 fields.
+Updated J5 sheetname to 'Root'.
+Updated J5 sheetfile to 'dissscharhgeeee.kicad_sch'.
+Updated J5 footprint filters to 'Connector*:*_1x??_*'.
+Connected J5 pin 1 to Dis Resistor -ve.
+Connected J5 pin 2 to +12V.
+Updated H1 symbol association from  to /38f73ca8-d22d-48bb-b8cd-4524e677614b.
+Added K2 (footprint 'Relay_THT:Relay_SPDT_Hongfa_HF3F-L-xx-1ZL1T').
+Changed REF** reference designator to K2.
+Changed K2 value from Relay_SPDT_Hongfa_HF3F-L-xx-1ZL1T to Fujitsu_FTR-LYCA005x.
+Updated K2 symbol association from  to /20056f67-6982-477f-b3d4-19a31bca3bb0.
+Updated K2 fields.
+Updated K2 sheetname to 'Root'.
+Updated K2 sheetfile to 'dissscharhgeeee.kicad_sch'.
+Updated K2 footprint filters to 'Relay*Fujitsu*FTR?LYC*'.
+Connected K2 pin 11 to Dis Resistor +ve.
+Connected K2 pin A2 to Dis Resistor -ve.
+Connected K2 pin A1 to +12V.
+Connected K2 pin 12 to TS+.
+Add net unconnected-(K2-Pad14).
+Connected K2 pin 14 to unconnected-(K2-Pad14).
+Warning: No net found for component J2 pad 2 (no pin 2 in symbol).
+Warning: No net found for component J3 pad 2 (no pin 2 in symbol).
+Warning: No net found for component J4 pad 2 (no pin 2 in symbol).
+
+
+Info: Total warnings: 3, errors: 0.

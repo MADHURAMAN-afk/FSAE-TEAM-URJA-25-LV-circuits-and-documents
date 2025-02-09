@@ -1,0 +1,63 @@
+Based on the datasheet, here are the relevant details for interpreting the fault status signal of the IMD (Insulation Monitoring Device) IR155-32xx:
+
+OKHS Status Output (High Side):
+Normal Condition (No Fault):
+
+The OKHS output switches to US (supply voltage) minus 2V.
+This means if the supply voltage (US) is 12V, the OKHS output will be around 10V.
+Signal Level: High (US - 2V)
+Fault Condition (Insulation Fault, Device Error, Earth Connection Fault, or Undervoltage Detected):
+
+The OKHS output will be low, close to 0V.
+Signal Level: Low (0V)
+Summary of Fault Status Signal:
+When there is no fault, the OKHS status output will be high (approximately US - 2V).
+When there is a fault, the OKHS status output will be low (0V).
+Practical Use:
+Interfacing with the Optocoupler:
+
+When the OKHS output is high (no fault), the optocoupler's LED will be off if connected to the output directly.
+When the OKHS output is low (fault condition), the optocoupler's LED will turn on, signaling a fault.
+Circuit Configuration:
+
+Normal (No Fault): OKHS ≈ US - 2V (10V if US is 12V)
+Fault: OKHS ≈ 0V
+Implementation:
+To use this signal in your circuit, you would connect the OKHS output to the input side of your optocoupler, with a current-limiting resistor calculated based on the supply voltage and desired forward current for the optocoupler's LED.
+
+Example Calculation for Resistor:
+Supply Voltage (US): 12V
+High Signal: 10V (US - 2V)
+Desired Forward Current (I_F): 15mA
+Forward Voltage of Optocoupler LED (V_F): 1.2V (typical)
+Resistor value:
+
+𝑅
+=
+10
+𝑉
+−
+1.2
+𝑉
+15
+𝑚
+𝐴
+≈
+585
+Ω
+R= 
+15mA
+10V−1.2V
+​
+ ≈585Ω
+
+v
+
+A standard resistor value close to this is 560Ω or 600Ω.
+
+Conclusion:
+No Fault: OKHS output ≈ 10V
+Fault: OKHS output ≈ 0V
+You can configure the optocoupler in your circuit to detect these levels appropriately and trigger your fault indicator mechanisms accordingly.
+
+For further details and exact resistor values, always refer to the specific component datasheets and adjust calculations based on your circuit's requirements.

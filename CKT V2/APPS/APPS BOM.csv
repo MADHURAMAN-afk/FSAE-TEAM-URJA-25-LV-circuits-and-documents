@@ -1,0 +1,16 @@
+Reference,Value,Footprint,Qty
+"C1,C2",10uf,Capacitor_THT:CP_Radial_D8.0mm_P5.00mm,2
+C3,1uf,Capacitor_THT:CP_Radial_D8.0mm_P5.00mm,1
+"C4,C5,C6,C7,C8,C9,C10",0.1uf 25V,Capacitor_THT:CP_Radial_D8.0mm_P5.00mm,7
+D1,LED,LED_THT:LED_D5.0mm,1
+"F1,F2,F3",25 V 100mA,Fuse:Fuse_BelFuse_0ZRE0008FF_L8.3mm_W3.8mm,3
+J1,Conn_01x02_Pin,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,1
+"J2,J3",Conn_01x03_Pin,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical,2
+J4,Conn_01x04_Pin,Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical,1
+"R1,R2",3k3,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,2
+R3,100,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,1
+"R4,R6,R7,R9,R10",10K,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,5
+"R5,R8",27K,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,2
+R11,1K,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,1
+"U1,U3,U4",LM741,Package_DIP:CERDIP-8_W7.62mm_SideBrazed_LongPads_Socket,3
+U2,ICL7660,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,1
